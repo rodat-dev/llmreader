@@ -1,0 +1,26 @@
+# PyAutoGUI
+
+> PyAutoGUI is a cross-platform GUI automation Python module that lets your Python scripts control the mouse and keyboard to automate interactions with other applications. The API is designed to be simple and works on Windows, macOS, and Linux.
+
+PyAutoGUI provides functions for mouse and keyboard control, screenshot capabilities, image recognition, and message box display. It's designed for automating repetitive tasks, GUI testing, and creating bots that can interact with application interfaces.
+
+## Installation
+
+- [Installation Guide](https://pyautogui.readthedocs.io/en/latest/install.html): Platform-specific installation instructions for Windows, macOS, and Linux
+
+## Core Features
+
+- [Mouse Control](https://pyautogui.readthedocs.io/en/latest/mouse.html): Functions for moving the mouse cursor, clicking, dragging, and scrolling
+- [Keyboard Control](https://pyautogui.readthedocs.io/en/latest/keyboard.html): Functions for typing text and pressing keyboard keys
+- [Screenshot Functions](https://pyautogui.readthedocs.io/en/latest/screenshot.html): Taking screenshots and image recognition capabilities
+- [Message Box Functions](https://pyautogui.readthedocs.io/en/latest/msgbox.html): Displaying alert, confirm, prompt, and password boxes
+
+## Examples
+
+- [Quick Start Guide](https://pyautogui.readthedocs.io/en/latest/quickstart.html): Cheat sheet with common usage examples
+- [GitHub Repository](https://github.com/asweigart/pyautogui): Source code and additional examples
+
+## Optional
+
+- [Roadmap](https://pyautogui.readthedocs.io/en/latest/roadmap.html): Planned features for future releases
+- [Known Issues](https://github.com/asweigart/pyautogui/issues): Common problems and their solutions
